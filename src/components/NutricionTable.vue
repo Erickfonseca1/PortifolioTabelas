@@ -112,7 +112,7 @@ export default {
         paginação, presenta no canto inferior esquerdo
         da tabela para definir a quantidade de items a
         serem exibidos na tabela. Essa tabela, assim
-        como todo este layout, foi construída com VueJS!`
+        como todo esse layout, foi construída com VueJS!`
       ]
     }
   }
